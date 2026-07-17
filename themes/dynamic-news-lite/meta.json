@@ -1,0 +1,8 @@
+{
+  "id": "dynamic-news-lite",
+  "name": "Dynamic News Lite",
+  "description": "",
+  "parent_zip": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/dynamic-news-lite/parent.zip",
+  "child_zip": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/dynamic-news-lite/child.zip",
+  "screenshot": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/dynamic-news-lite/screenshot.png"
+}

@@ -1,0 +1,8 @@
+{
+  "id": "epic-blog",
+  "name": "Epic Blog",
+  "description": "",
+  "parent_zip": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/epic-blog/parent.zip",
+  "child_zip": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/epic-blog/child.zip",
+  "screenshot": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/epic-blog/screenshot.png"
+}

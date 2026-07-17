@@ -1,0 +1,8 @@
+{
+  "id": "gridlane",
+  "name": "Gridlane",
+  "description": "",
+  "parent_zip": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/gridlane/parent.zip",
+  "child_zip": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/gridlane/child.zip",
+  "screenshot": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/gridlane/screenshot.png"
+}

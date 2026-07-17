@@ -1,0 +1,8 @@
+{
+  "id": "radcliffe",
+  "name": "Radcliffe",
+  "description": "",
+  "parent_zip": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/radcliffe/parent.zip",
+  "child_zip": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/radcliffe/child.zip",
+  "screenshot": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/radcliffe/screenshot.png"
+}

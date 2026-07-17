@@ -1,0 +1,8 @@
+{
+  "id": "nimblepress",
+  "name": "Nimblepress",
+  "description": "",
+  "parent_zip": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/nimblepress/parent.zip",
+  "child_zip": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/nimblepress/child.zip",
+  "screenshot": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/nimblepress/screenshot.png"
+}

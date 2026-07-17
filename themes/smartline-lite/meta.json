@@ -1,0 +1,8 @@
+{
+  "id": "smartline-lite",
+  "name": "Smartline Lite",
+  "description": "",
+  "parent_zip": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/smartline-lite/parent.zip",
+  "child_zip": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/smartline-lite/child.zip",
+  "screenshot": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/smartline-lite/screenshot.png"
+}

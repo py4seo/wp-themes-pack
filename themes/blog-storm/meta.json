@@ -1,0 +1,8 @@
+{
+  "id": "blog-storm",
+  "name": "Blog Storm",
+  "description": "",
+  "parent_zip": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/blog-storm/parent.zip",
+  "child_zip": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/blog-storm/child.zip",
+  "preview": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/blog-storm/screenshot.png"
+}

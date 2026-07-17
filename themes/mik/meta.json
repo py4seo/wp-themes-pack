@@ -1,0 +1,8 @@
+{
+  "id": "mik",
+  "name": "Mik",
+  "description": "",
+  "parent_zip": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/mik/parent.zip",
+  "child_zip": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/mik/child.zip",
+  "screenshot": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/mik/screenshot.png"
+}

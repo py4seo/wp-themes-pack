@@ -1,0 +1,8 @@
+{
+  "id": "blogcards",
+  "name": "Blogcards",
+  "description": "",
+  "parent_zip": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/blogcards/parent.zip",
+  "child_zip": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/blogcards/child.zip",
+  "preview": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/blogcards/screenshot.png"
+}

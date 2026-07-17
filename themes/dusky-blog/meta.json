@@ -1,0 +1,8 @@
+{
+  "id": "dusky-blog",
+  "name": "Dusky Blog",
+  "description": "",
+  "parent_zip": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/dusky-blog/parent.zip",
+  "child_zip": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/dusky-blog/child.zip",
+  "preview": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/dusky-blog/screenshot.png"
+}

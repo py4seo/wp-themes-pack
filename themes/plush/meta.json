@@ -1,0 +1,8 @@
+{
+  "id": "plush",
+  "name": "Plush",
+  "description": "",
+  "parent_zip": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/plush/parent.zip",
+  "child_zip": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/plush/child.zip",
+  "screenshot": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/plush/screenshot.png"
+}

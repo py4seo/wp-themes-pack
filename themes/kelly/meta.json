@@ -1,0 +1,8 @@
+{
+  "id": "kelly",
+  "name": "Kelly",
+  "description": "",
+  "parent_zip": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/kelly/parent.zip",
+  "child_zip": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/kelly/child.zip",
+  "screenshot": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/kelly/screenshot.png"
+}

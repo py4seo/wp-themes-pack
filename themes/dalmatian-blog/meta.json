@@ -1,0 +1,8 @@
+{
+  "id": "dalmatian-blog",
+  "name": "Dalmatian Blog",
+  "description": "",
+  "parent_zip": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/dalmatian-blog/parent.zip",
+  "child_zip": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/dalmatian-blog/child.zip",
+  "preview": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/dalmatian-blog/screenshot.png"
+}

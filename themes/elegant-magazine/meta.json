@@ -1,0 +1,8 @@
+{
+  "id": "elegant-magazine",
+  "name": "Elegant Magazine",
+  "description": "",
+  "parent_zip": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/elegant-magazine/parent.zip",
+  "child_zip": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/elegant-magazine/child.zip",
+  "preview": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/elegant-magazine/screenshot.png"
+}

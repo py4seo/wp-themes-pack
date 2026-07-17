@@ -1,0 +1,8 @@
+{
+  "id": "button",
+  "name": "Button",
+  "description": "",
+  "parent_zip": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/button/parent.zip",
+  "child_zip": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/button/child.zip",
+  "screenshot": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/button/screenshot.png"
+}
