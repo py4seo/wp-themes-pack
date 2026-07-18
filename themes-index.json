@@ -4,602 +4,602 @@
     {
       "id": "alaska-blog",
       "name": "Alaska Blog",
-      "description": "",
-      "parent_zip": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/alaska-blog/parent.zip",
-      "child_zip": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/alaska-blog/child.zip",
-      "screenshot": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/alaska-blog/screenshot.png"
+      "child_slug": "alaska-blog-child",
+      "screenshot": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/alaska-blog/screenshot.jpg",
+      "parent_zip": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/alaska-blog/alaska-blog.zip",
+      "child_zip": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/alaska-blog/alaska-blog-child.zip"
     },
     {
       "id": "author-blog",
       "name": "Author Blog",
-      "description": "",
-      "parent_zip": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/author-blog/parent.zip",
-      "child_zip": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/author-blog/child.zip",
-      "screenshot": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/author-blog/screenshot.png"
+      "child_slug": "author-blog-child",
+      "screenshot": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/author-blog/screenshot.jpg",
+      "parent_zip": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/author-blog/author-blog.zip",
+      "child_zip": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/author-blog/author-blog-child.zip"
     },
     {
       "id": "blogcards",
       "name": "Blogcards",
-      "description": "",
-      "parent_zip": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/blogcards/parent.zip",
-      "child_zip": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/blogcards/child.zip",
-      "screenshot": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/blogcards/screenshot.png"
+      "child_slug": "blogcards-child",
+      "screenshot": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/blogcards/screenshot.jpg",
+      "parent_zip": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/blogcards/blogcards.zip",
+      "child_zip": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/blogcards/blogcards-child.zip"
     },
     {
       "id": "blog-personal",
       "name": "Blog Personal",
-      "description": "",
-      "parent_zip": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/blog-personal/parent.zip",
-      "child_zip": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/blog-personal/child.zip",
-      "screenshot": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/blog-personal/screenshot.png"
+      "child_slug": "blog-personal-child",
+      "screenshot": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/blog-personal/screenshot.jpg",
+      "parent_zip": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/blog-personal/blog-personal.zip",
+      "child_zip": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/blog-personal/blog-personal-child.zip"
     },
     {
       "id": "blogside",
       "name": "Blogside",
-      "description": "",
-      "parent_zip": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/blogside/parent.zip",
-      "child_zip": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/blogside/child.zip",
-      "screenshot": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/blogside/screenshot.png"
+      "child_slug": "blogside-child",
+      "screenshot": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/blogside/screenshot.jpg",
+      "parent_zip": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/blogside/blogside.zip",
+      "child_zip": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/blogside/blogside-child.zip"
     },
     {
       "id": "blog-storm",
       "name": "Blog Storm",
-      "description": "",
-      "parent_zip": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/blog-storm/parent.zip",
-      "child_zip": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/blog-storm/child.zip",
-      "screenshot": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/blog-storm/screenshot.jpg"
+      "child_slug": "blog-storm-child",
+      "screenshot": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/blog-storm/screenshot.jpg",
+      "parent_zip": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/blog-storm/blog-storm.zip",
+      "child_zip": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/blog-storm/blog-storm-child.zip"
     },
     {
       "id": "city-girl",
       "name": "City Girl",
-      "description": "",
-      "parent_zip": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/city-girl/parent.zip",
-      "child_zip": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/city-girl/child.zip",
-      "screenshot": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/city-girl/screenshot.png"
+      "child_slug": "city-girl-child",
+      "screenshot": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/city-girl/screenshot.jpg",
+      "parent_zip": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/city-girl/city-girl.zip",
+      "child_zip": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/city-girl/city-girl-child.zip"
     },
     {
       "id": "curveflow",
       "name": "Curveflow",
-      "description": "",
-      "parent_zip": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/curveflow/parent.zip",
-      "child_zip": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/curveflow/child.zip",
-      "screenshot": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/curveflow/screenshot.png"
+      "child_slug": "curveflow-child",
+      "screenshot": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/curveflow/screenshot.jpg",
+      "parent_zip": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/curveflow/curveflow.zip",
+      "child_zip": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/curveflow/curveflow-child.zip"
     },
     {
       "id": "cutslice",
       "name": "Cutslice",
-      "description": "",
-      "parent_zip": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/cutslice/parent.zip",
-      "child_zip": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/cutslice/child.zip",
-      "screenshot": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/cutslice/screenshot.png"
+      "child_slug": "cutslice-child",
+      "screenshot": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/cutslice/screenshot.jpg",
+      "parent_zip": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/cutslice/cutslice.zip",
+      "child_zip": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/cutslice/cutslice-child.zip"
     },
     {
       "id": "daisy-blog",
       "name": "Daisy Blog",
-      "description": "",
-      "parent_zip": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/daisy-blog/parent.zip",
-      "child_zip": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/daisy-blog/child.zip",
-      "screenshot": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/daisy-blog/screenshot.png"
+      "child_slug": "daisy-blog-child",
+      "screenshot": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/daisy-blog/screenshot.jpg",
+      "parent_zip": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/daisy-blog/daisy-blog.zip",
+      "child_zip": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/daisy-blog/daisy-blog-child.zip"
     },
     {
       "id": "dalmatian-blog",
       "name": "Dalmatian Blog",
-      "description": "",
-      "parent_zip": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/dalmatian-blog/parent.zip",
-      "child_zip": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/dalmatian-blog/child.zip",
-      "screenshot": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/dalmatian-blog/screenshot.png"
+      "child_slug": "dalmatian-blog-child",
+      "screenshot": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/dalmatian-blog/screenshot.jpg",
+      "parent_zip": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/dalmatian-blog/dalmatian-blog.zip",
+      "child_zip": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/dalmatian-blog/dalmatian-blog-child.zip"
     },
     {
       "id": "dusky-blog",
       "name": "Dusky Blog",
-      "description": "",
-      "parent_zip": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/dusky-blog/parent.zip",
-      "child_zip": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/dusky-blog/child.zip",
-      "screenshot": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/dusky-blog/screenshot.png"
+      "child_slug": "dusky-blog-child",
+      "screenshot": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/dusky-blog/screenshot.jpg",
+      "parent_zip": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/dusky-blog/dusky-blog.zip",
+      "child_zip": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/dusky-blog/dusky-blog-child.zip"
     },
     {
       "id": "elegant-magazine",
       "name": "Elegant Magazine",
-      "description": "",
-      "parent_zip": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/elegant-magazine/parent.zip",
-      "child_zip": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/elegant-magazine/child.zip",
-      "screenshot": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/elegant-magazine/screenshot.png"
+      "child_slug": "elegant-magazine-child",
+      "screenshot": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/elegant-magazine/screenshot.jpg",
+      "parent_zip": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/elegant-magazine/elegant-magazine.zip",
+      "child_zip": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/elegant-magazine/elegant-magazine-child.zip"
     },
     {
       "id": "emboss-blog",
       "name": "Emboss Blog",
-      "description": "",
-      "parent_zip": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/emboss-blog/parent.zip",
-      "child_zip": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/emboss-blog/child.zip",
-      "screenshot": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/emboss-blog/screenshot.png"
+      "child_slug": "emboss-blog-child",
+      "screenshot": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/emboss-blog/screenshot.jpg",
+      "parent_zip": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/emboss-blog/emboss-blog.zip",
+      "child_zip": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/emboss-blog/emboss-blog-child.zip"
     },
     {
       "id": "enjoyblog",
       "name": "Enjoyblog",
-      "description": "",
-      "parent_zip": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/enjoyblog/parent.zip",
-      "child_zip": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/enjoyblog/child.zip",
-      "screenshot": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/enjoyblog/screenshot.png"
+      "child_slug": "enjoyblog-child",
+      "screenshot": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/enjoyblog/screenshot.jpg",
+      "parent_zip": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/enjoyblog/enjoyblog.zip",
+      "child_zip": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/enjoyblog/enjoyblog-child.zip"
     },
     {
       "id": "epic-blog",
       "name": "Epic Blog",
-      "description": "",
-      "parent_zip": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/epic-blog/parent.zip",
-      "child_zip": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/epic-blog/child.zip",
-      "screenshot": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/epic-blog/screenshot.png"
+      "child_slug": "epic-blog-child",
+      "screenshot": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/epic-blog/screenshot.jpg",
+      "parent_zip": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/epic-blog/epic-blog.zip",
+      "child_zip": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/epic-blog/epic-blog-child.zip"
     },
     {
       "id": "feather-magazine",
       "name": "Feather Magazine",
-      "description": "",
-      "parent_zip": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/feather-magazine/parent.zip",
-      "child_zip": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/feather-magazine/child.zip",
-      "screenshot": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/feather-magazine/screenshot.png"
+      "child_slug": "feather-magazine-child",
+      "screenshot": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/feather-magazine/screenshot.jpg",
+      "parent_zip": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/feather-magazine/feather-magazine.zip",
+      "child_zip": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/feather-magazine/feather-magazine-child.zip"
     },
     {
       "id": "finley",
       "name": "Finley",
-      "description": "",
-      "parent_zip": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/finley/parent.zip",
-      "child_zip": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/finley/child.zip",
-      "screenshot": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/finley/screenshot.png"
+      "child_slug": "finley-child",
+      "screenshot": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/finley/screenshot.jpg",
+      "parent_zip": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/finley/finley.zip",
+      "child_zip": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/finley/finley-child.zip"
     },
     {
       "id": "grayzone",
       "name": "Grayzone",
-      "description": "",
-      "parent_zip": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/grayzone/parent.zip",
-      "child_zip": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/grayzone/child.zip",
-      "screenshot": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/grayzone/screenshot.png"
+      "child_slug": "grayzone-child",
+      "screenshot": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/grayzone/screenshot.jpg",
+      "parent_zip": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/grayzone/grayzone.zip",
+      "child_zip": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/grayzone/grayzone-child.zip"
     },
     {
       "id": "gridlane",
       "name": "Gridlane",
-      "description": "",
-      "parent_zip": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/gridlane/parent.zip",
-      "child_zip": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/gridlane/child.zip",
-      "screenshot": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/gridlane/screenshot.png"
+      "child_slug": "gridlane-child",
+      "screenshot": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/gridlane/screenshot.jpg",
+      "parent_zip": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/gridlane/gridlane.zip",
+      "child_zip": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/gridlane/gridlane-child.zip"
     },
     {
       "id": "gridmode",
       "name": "Gridmode",
-      "description": "",
-      "parent_zip": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/gridmode/parent.zip",
-      "child_zip": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/gridmode/child.zip",
-      "screenshot": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/gridmode/screenshot.png"
+      "child_slug": "gridmode-child",
+      "screenshot": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/gridmode/screenshot.jpg",
+      "parent_zip": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/gridmode/gridmode.zip",
+      "child_zip": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/gridmode/gridmode-child.zip"
     },
     {
       "id": "informative-blogs",
       "name": "Informative Blogs",
-      "description": "",
-      "parent_zip": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/informative-blogs/parent.zip",
-      "child_zip": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/informative-blogs/child.zip",
-      "screenshot": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/informative-blogs/screenshot.png"
+      "child_slug": "informative-blogs-child",
+      "screenshot": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/informative-blogs/screenshot.jpg",
+      "parent_zip": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/informative-blogs/informative-blogs.zip",
+      "child_zip": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/informative-blogs/informative-blogs-child.zip"
     },
     {
       "id": "journey-blog",
       "name": "Journey Blog",
-      "description": "",
-      "parent_zip": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/journey-blog/parent.zip",
-      "child_zip": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/journey-blog/child.zip",
-      "screenshot": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/journey-blog/screenshot.png"
+      "child_slug": "journey-blog-child",
+      "screenshot": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/journey-blog/screenshot.jpg",
+      "parent_zip": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/journey-blog/journey-blog.zip",
+      "child_zip": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/journey-blog/journey-blog-child.zip"
     },
     {
       "id": "kokoro",
       "name": "Kokoro",
-      "description": "",
-      "parent_zip": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/kokoro/parent.zip",
-      "child_zip": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/kokoro/child.zip",
-      "screenshot": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/kokoro/screenshot.png"
+      "child_slug": "kokoro-child",
+      "screenshot": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/kokoro/screenshot.jpg",
+      "parent_zip": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/kokoro/kokoro.zip",
+      "child_zip": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/kokoro/kokoro-child.zip"
     },
     {
       "id": "legit-news",
       "name": "Legit News",
-      "description": "",
-      "parent_zip": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/legit-news/parent.zip",
-      "child_zip": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/legit-news/child.zip",
-      "screenshot": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/legit-news/screenshot.png"
+      "child_slug": "legit-news-child",
+      "screenshot": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/legit-news/screenshot.jpg",
+      "parent_zip": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/legit-news/legit-news.zip",
+      "child_zip": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/legit-news/legit-news-child.zip"
     },
     {
       "id": "lovecraft",
       "name": "Lovecraft",
-      "description": "",
-      "parent_zip": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/lovecraft/parent.zip",
-      "child_zip": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/lovecraft/child.zip",
-      "screenshot": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/lovecraft/screenshot.png"
+      "child_slug": "lovecraft-child",
+      "screenshot": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/lovecraft/screenshot.jpg",
+      "parent_zip": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/lovecraft/lovecraft.zip",
+      "child_zip": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/lovecraft/lovecraft-child.zip"
     },
     {
       "id": "mik",
       "name": "Mik",
-      "description": "",
-      "parent_zip": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/mik/parent.zip",
-      "child_zip": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/mik/child.zip",
-      "screenshot": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/mik/screenshot.png"
+      "child_slug": "mik-child",
+      "screenshot": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/mik/screenshot.jpg",
+      "parent_zip": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/mik/mik.zip",
+      "child_zip": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/mik/mik-child.zip"
     },
     {
       "id": "minimal-grid",
       "name": "Minimal Grid",
-      "description": "",
-      "parent_zip": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/minimal-grid/parent.zip",
-      "child_zip": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/minimal-grid/child.zip",
-      "screenshot": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/minimal-grid/screenshot.png"
+      "child_slug": "minimal-grid-child",
+      "screenshot": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/minimal-grid/screenshot.jpg",
+      "parent_zip": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/minimal-grid/minimal-grid.zip",
+      "child_zip": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/minimal-grid/minimal-grid-child.zip"
     },
     {
       "id": "nine-blog",
       "name": "Nine Blog",
-      "description": "",
-      "parent_zip": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/nine-blog/parent.zip",
-      "child_zip": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/nine-blog/child.zip",
-      "screenshot": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/nine-blog/screenshot.png"
+      "child_slug": "nine-blog-child",
+      "screenshot": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/nine-blog/screenshot.jpg",
+      "parent_zip": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/nine-blog/nine-blog.zip",
+      "child_zip": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/nine-blog/nine-blog-child.zip"
     },
     {
       "id": "pagoda-press",
       "name": "Pagoda Press",
-      "description": "",
-      "parent_zip": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/pagoda-press/parent.zip",
-      "child_zip": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/pagoda-press/child.zip",
-      "screenshot": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/pagoda-press/screenshot.png"
+      "child_slug": "pagoda-press-child",
+      "screenshot": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/pagoda-press/screenshot.jpg",
+      "parent_zip": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/pagoda-press/pagoda-press.zip",
+      "child_zip": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/pagoda-press/pagoda-press-child.zip"
     },
     {
       "id": "personalias",
       "name": "Personalias",
-      "description": "",
-      "parent_zip": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/personalias/parent.zip",
-      "child_zip": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/personalias/child.zip",
-      "screenshot": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/personalias/screenshot.png"
+      "child_slug": "personalias-child",
+      "screenshot": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/personalias/screenshot.jpg",
+      "parent_zip": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/personalias/personalias.zip",
+      "child_zip": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/personalias/personalias-child.zip"
     },
     {
       "id": "plush",
       "name": "Plush",
-      "description": "",
-      "parent_zip": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/plush/parent.zip",
-      "child_zip": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/plush/child.zip",
-      "screenshot": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/plush/screenshot.png"
+      "child_slug": "plush-child",
+      "screenshot": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/plush/screenshot.jpg",
+      "parent_zip": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/plush/plush.zip",
+      "child_zip": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/plush/plush-child.zip"
     },
     {
       "id": "public-blog",
       "name": "Public Blog",
-      "description": "",
-      "parent_zip": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/public-blog/parent.zip",
-      "child_zip": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/public-blog/child.zip",
-      "screenshot": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/public-blog/screenshot.png"
+      "child_slug": "public-blog-child",
+      "screenshot": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/public-blog/screenshot.jpg",
+      "parent_zip": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/public-blog/public-blog.zip",
+      "child_zip": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/public-blog/public-blog-child.zip"
     },
     {
       "id": "safari-blog",
       "name": "Safari Blog",
-      "description": "",
-      "parent_zip": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/safari-blog/parent.zip",
-      "child_zip": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/safari-blog/child.zip",
-      "screenshot": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/safari-blog/screenshot.png"
+      "child_slug": "safari-blog-child",
+      "screenshot": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/safari-blog/screenshot.jpg",
+      "parent_zip": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/safari-blog/safari-blog.zip",
+      "child_zip": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/safari-blog/safari-blog-child.zip"
     },
     {
       "id": "activello",
       "name": "Activello",
-      "description": "",
-      "parent_zip": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/activello/parent.zip",
-      "child_zip": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/activello/child.zip",
-      "screenshot": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/activello/screenshot.png"
+      "child_slug": "activello-child",
+      "screenshot": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/activello/screenshot.jpg",
+      "parent_zip": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/activello/activello.zip",
+      "child_zip": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/activello/activello-child.zip"
     },
     {
       "id": "admiral",
       "name": "Admiral",
-      "description": "",
-      "parent_zip": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/admiral/parent.zip",
-      "child_zip": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/admiral/child.zip",
-      "screenshot": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/admiral/screenshot.png"
+      "child_slug": "admiral-child",
+      "screenshot": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/admiral/screenshot.jpg",
+      "parent_zip": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/admiral/admiral.zip",
+      "child_zip": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/admiral/admiral-child.zip"
     },
     {
       "id": "almighty",
       "name": "Almighty",
-      "description": "",
-      "parent_zip": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/almighty/parent.zip",
-      "child_zip": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/almighty/child.zip",
-      "screenshot": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/almighty/screenshot.png"
+      "child_slug": "almighty-child",
+      "screenshot": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/almighty/screenshot.jpg",
+      "parent_zip": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/almighty/almighty.zip",
+      "child_zip": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/almighty/almighty-child.zip"
     },
     {
       "id": "baskerville",
       "name": "Baskerville",
-      "description": "",
-      "parent_zip": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/baskerville/parent.zip",
-      "child_zip": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/baskerville/child.zip",
-      "screenshot": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/baskerville/screenshot.png"
+      "child_slug": "baskerville-child",
+      "screenshot": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/baskerville/screenshot.jpg",
+      "parent_zip": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/baskerville/baskerville.zip",
+      "child_zip": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/baskerville/baskerville-child.zip"
     },
     {
       "id": "blogdata",
       "name": "Blogdata",
-      "description": "",
-      "parent_zip": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/blogdata/parent.zip",
-      "child_zip": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/blogdata/child.zip",
-      "screenshot": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/blogdata/screenshot.png"
+      "child_slug": "blogdata-child",
+      "screenshot": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/blogdata/screenshot.jpg",
+      "parent_zip": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/blogdata/blogdata.zip",
+      "child_zip": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/blogdata/blogdata-child.zip"
     },
     {
       "id": "blogus",
       "name": "Blogus",
-      "description": "",
-      "parent_zip": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/blogus/parent.zip",
-      "child_zip": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/blogus/child.zip",
-      "screenshot": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/blogus/screenshot.png"
+      "child_slug": "blogus-child",
+      "screenshot": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/blogus/screenshot.jpg",
+      "parent_zip": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/blogus/blogus.zip",
+      "child_zip": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/blogus/blogus-child.zip"
     },
     {
       "id": "button",
       "name": "Button",
-      "description": "",
-      "parent_zip": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/button/parent.zip",
-      "child_zip": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/button/child.zip",
-      "screenshot": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/button/screenshot.png"
+      "child_slug": "button-child",
+      "screenshot": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/button/screenshot.jpg",
+      "parent_zip": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/button/button.zip",
+      "child_zip": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/button/button-child.zip"
     },
     {
       "id": "classica-press",
       "name": "Classica Press",
-      "description": "",
-      "parent_zip": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/classica-press/parent.zip",
-      "child_zip": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/classica-press/child.zip",
-      "screenshot": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/classica-press/screenshot.png"
+      "child_slug": "classica-press-child",
+      "screenshot": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/classica-press/screenshot.jpg",
+      "parent_zip": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/classica-press/classica-press.zip",
+      "child_zip": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/classica-press/classica-press-child.zip"
     },
     {
       "id": "cube-blog",
       "name": "Cube Blog",
-      "description": "",
-      "parent_zip": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/cube-blog/parent.zip",
-      "child_zip": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/cube-blog/child.zip",
-      "screenshot": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/cube-blog/screenshot.png"
+      "child_slug": "cube-blog-child",
+      "screenshot": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/cube-blog/screenshot.jpg",
+      "parent_zip": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/cube-blog/cube-blog.zip",
+      "child_zip": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/cube-blog/cube-blog-child.zip"
     },
     {
       "id": "donovan",
       "name": "Donovan",
-      "description": "",
-      "parent_zip": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/donovan/parent.zip",
-      "child_zip": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/donovan/child.zip",
-      "screenshot": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/donovan/screenshot.png"
+      "child_slug": "donovan-child",
+      "screenshot": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/donovan/screenshot.jpg",
+      "parent_zip": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/donovan/donovan.zip",
+      "child_zip": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/donovan/donovan-child.zip"
     },
     {
       "id": "dynamic-news-lite",
       "name": "Dynamic News Lite",
-      "description": "",
-      "parent_zip": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/dynamic-news-lite/parent.zip",
-      "child_zip": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/dynamic-news-lite/child.zip",
-      "screenshot": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/dynamic-news-lite/screenshot.png"
+      "child_slug": "dynamic-news-lite-child",
+      "screenshot": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/dynamic-news-lite/screenshot.jpg",
+      "parent_zip": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/dynamic-news-lite/dynamic-news-lite.zip",
+      "child_zip": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/dynamic-news-lite/dynamic-news-lite-child.zip"
     },
     {
       "id": "eksell-child",
       "name": "Eksell Child",
-      "description": "",
-      "parent_zip": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/eksell-child/parent.zip",
-      "child_zip": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/eksell-child/child.zip",
-      "screenshot": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/eksell-child/screenshot.png"
+      "child_slug": "eksell-child-child",
+      "screenshot": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/eksell-child/screenshot.jpg",
+      "parent_zip": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/eksell-child/eksell.zip",
+      "child_zip": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/eksell-child/eksell-child.zip"
     },
     {
       "id": "fascinate",
       "name": "Fascinate",
-      "description": "",
-      "parent_zip": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/fascinate/parent.zip",
-      "child_zip": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/fascinate/child.zip",
-      "screenshot": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/fascinate/screenshot.png"
+      "child_slug": "fascinate-child",
+      "screenshot": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/fascinate/screenshot.jpg",
+      "parent_zip": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/fascinate/fascinate.zip",
+      "child_zip": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/fascinate/fascinate-child.zip"
     },
     {
       "id": "foodica",
       "name": "Foodica",
-      "description": "",
-      "parent_zip": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/foodica/parent.zip",
-      "child_zip": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/foodica/child.zip",
-      "screenshot": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/foodica/screenshot.png"
+      "child_slug": "foodica-child",
+      "screenshot": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/foodica/screenshot.jpg",
+      "parent_zip": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/foodica/foodica.zip",
+      "child_zip": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/foodica/foodica-child.zip"
     },
     {
       "id": "fukasawa",
       "name": "Fukasawa",
-      "description": "",
-      "parent_zip": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/fukasawa/parent.zip",
-      "child_zip": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/fukasawa/child.zip",
-      "screenshot": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/fukasawa/screenshot.png"
+      "child_slug": "fukasawa-child",
+      "screenshot": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/fukasawa/screenshot.jpg",
+      "parent_zip": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/fukasawa/fukasawa.zip",
+      "child_zip": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/fukasawa/fukasawa-child.zip"
     },
     {
       "id": "garfunkel",
       "name": "Garfunkel",
-      "description": "",
-      "parent_zip": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/garfunkel/parent.zip",
-      "child_zip": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/garfunkel/child.zip",
-      "screenshot": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/garfunkel/screenshot.png"
+      "child_slug": "garfunkel-child",
+      "screenshot": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/garfunkel/screenshot.jpg",
+      "parent_zip": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/garfunkel/garfunkel.zip",
+      "child_zip": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/garfunkel/garfunkel-child.zip"
     },
     {
       "id": "hemingway",
       "name": "Hemingway",
-      "description": "",
-      "parent_zip": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/hemingway/parent.zip",
-      "child_zip": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/hemingway/child.zip",
-      "screenshot": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/hemingway/screenshot.png"
+      "child_slug": "hemingway-child",
+      "screenshot": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/hemingway/screenshot.jpg",
+      "parent_zip": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/hemingway/hemingway.zip",
+      "child_zip": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/hemingway/hemingway-child.zip"
     },
     {
       "id": "hueman",
       "name": "Hueman",
-      "description": "",
-      "parent_zip": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/hueman/parent.zip",
-      "child_zip": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/hueman/child.zip",
-      "screenshot": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/hueman/screenshot.png"
+      "child_slug": "hueman-child",
+      "screenshot": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/hueman/screenshot.jpg",
+      "parent_zip": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/hueman/hueman.zip",
+      "child_zip": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/hueman/hueman-child.zip"
     },
     {
       "id": "ignite",
       "name": "Ignite",
-      "description": "",
-      "parent_zip": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/ignite/parent.zip",
-      "child_zip": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/ignite/child.zip",
-      "screenshot": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/ignite/screenshot.png"
+      "child_slug": "ignite-child",
+      "screenshot": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/ignite/screenshot.jpg",
+      "parent_zip": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/ignite/ignite.zip",
+      "child_zip": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/ignite/ignite-child.zip"
     },
     {
       "id": "ixion",
       "name": "Ixion",
-      "description": "",
-      "parent_zip": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/ixion/parent.zip",
-      "child_zip": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/ixion/child.zip",
-      "screenshot": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/ixion/screenshot.png"
+      "child_slug": "ixion-child",
+      "screenshot": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/ixion/screenshot.jpg",
+      "parent_zip": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/ixion/ixion.zip",
+      "child_zip": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/ixion/ixion-child.zip"
     },
     {
       "id": "kale",
       "name": "Kale",
-      "description": "",
-      "parent_zip": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/kale/parent.zip",
-      "child_zip": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/kale/child.zip",
-      "screenshot": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/kale/screenshot.png"
+      "child_slug": "kale-child",
+      "screenshot": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/kale/screenshot.jpg",
+      "parent_zip": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/kale/kale.zip",
+      "child_zip": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/kale/kale-child.zip"
     },
     {
       "id": "kelly",
       "name": "Kelly",
-      "description": "",
-      "parent_zip": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/kelly/parent.zip",
-      "child_zip": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/kelly/child.zip",
-      "screenshot": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/kelly/screenshot.png"
+      "child_slug": "kelly-child",
+      "screenshot": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/kelly/screenshot.jpg",
+      "parent_zip": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/kelly/kelly.zip",
+      "child_zip": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/kelly/kelly-child.zip"
     },
     {
       "id": "libre",
       "name": "Libre",
-      "description": "",
-      "parent_zip": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/libre/parent.zip",
-      "child_zip": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/libre/child.zip",
-      "screenshot": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/libre/screenshot.png"
+      "child_slug": "libre-child",
+      "screenshot": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/libre/screenshot.jpg",
+      "parent_zip": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/libre/libre.zip",
+      "child_zip": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/libre/libre-child.zip"
     },
     {
       "id": "mantra",
       "name": "Mantra",
-      "description": "",
-      "parent_zip": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/mantra/parent.zip",
-      "child_zip": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/mantra/child.zip",
-      "screenshot": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/mantra/screenshot.png"
+      "child_slug": "mantra-child",
+      "screenshot": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/mantra/screenshot.jpg",
+      "parent_zip": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/mantra/mantra.zip",
+      "child_zip": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/mantra/mantra-child.zip"
     },
     {
       "id": "matala",
       "name": "Matala",
-      "description": "",
-      "parent_zip": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/matala/parent.zip",
-      "child_zip": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/matala/child.zip",
-      "screenshot": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/matala/screenshot.png"
+      "child_slug": "matala-child",
+      "screenshot": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/matala/screenshot.jpg",
+      "parent_zip": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/matala/matala.zip",
+      "child_zip": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/matala/matala-child.zip"
     },
     {
       "id": "maxwell",
       "name": "Maxwell",
-      "description": "",
-      "parent_zip": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/maxwell/parent.zip",
-      "child_zip": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/maxwell/child.zip",
-      "screenshot": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/maxwell/screenshot.png"
+      "child_slug": "maxwell-child",
+      "screenshot": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/maxwell/screenshot.jpg",
+      "parent_zip": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/maxwell/maxwell.zip",
+      "child_zip": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/maxwell/maxwell-child.zip"
     },
     {
       "id": "mh-magazine-lite",
       "name": "MH Magazine Lite",
-      "description": "",
-      "parent_zip": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/mh-magazine-lite/parent.zip",
-      "child_zip": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/mh-magazine-lite/child.zip",
-      "screenshot": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/mh-magazine-lite/screenshot.png"
+      "child_slug": "mh-magazine-lite-child",
+      "screenshot": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/mh-magazine-lite/screenshot.jpg",
+      "parent_zip": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/mh-magazine-lite/mh-magazine-lite.zip",
+      "child_zip": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/mh-magazine-lite/mh-magazine-lite-child.zip"
     },
     {
       "id": "misty-lake",
       "name": "Misty Lake",
-      "description": "",
-      "parent_zip": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/misty-lake/parent.zip",
-      "child_zip": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/misty-lake/child.zip",
-      "screenshot": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/misty-lake/screenshot.png"
+      "child_slug": "misty-lake-child",
+      "screenshot": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/misty-lake/screenshot.jpg",
+      "parent_zip": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/misty-lake/misty-lake.zip",
+      "child_zip": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/misty-lake/misty-lake-child.zip"
     },
     {
       "id": "nimblepress",
       "name": "Nimblepress",
-      "description": "",
-      "parent_zip": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/nimblepress/parent.zip",
-      "child_zip": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/nimblepress/child.zip",
-      "screenshot": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/nimblepress/screenshot.png"
+      "child_slug": "nimblepress-child",
+      "screenshot": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/nimblepress/screenshot.jpg",
+      "parent_zip": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/nimblepress/nimblepress.zip",
+      "child_zip": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/nimblepress/nimblepress-child.zip"
     },
     {
       "id": "radcliffe",
       "name": "Radcliffe",
-      "description": "",
-      "parent_zip": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/radcliffe/parent.zip",
-      "child_zip": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/radcliffe/child.zip",
-      "screenshot": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/radcliffe/screenshot.png"
+      "child_slug": "radcliffe-child",
+      "screenshot": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/radcliffe/screenshot.jpg",
+      "parent_zip": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/radcliffe/radcliffe.zip",
+      "child_zip": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/radcliffe/radcliffe-child.zip"
     },
     {
       "id": "rams",
       "name": "Rams",
-      "description": "",
-      "parent_zip": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/rams/parent.zip",
-      "child_zip": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/rams/child.zip",
-      "screenshot": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/rams/screenshot.png"
+      "child_slug": "rams-child",
+      "screenshot": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/rams/screenshot.jpg",
+      "parent_zip": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/rams/rams.zip",
+      "child_zip": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/rams/rams-child.zip"
     },
     {
       "id": "rebalance",
       "name": "Rebalance",
-      "description": "",
-      "parent_zip": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/rebalance/parent.zip",
-      "child_zip": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/rebalance/child.zip",
-      "screenshot": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/rebalance/screenshot.png"
+      "child_slug": "rebalance-child",
+      "screenshot": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/rebalance/screenshot.jpg",
+      "parent_zip": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/rebalance/rebalance.zip",
+      "child_zip": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/rebalance/rebalance-child.zip"
     },
     {
       "id": "siteorigin-unwind",
       "name": "SiteOrigin Unwind",
-      "description": "",
-      "parent_zip": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/siteorigin-unwind/parent.zip",
-      "child_zip": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/siteorigin-unwind/child.zip",
-      "screenshot": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/siteorigin-unwind/screenshot.png"
+      "child_slug": "siteorigin-unwind-child",
+      "screenshot": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/siteorigin-unwind/screenshot.jpg",
+      "parent_zip": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/siteorigin-unwind/siteorigin-unwind.zip",
+      "child_zip": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/siteorigin-unwind/siteorigin-unwind-child.zip"
     },
     {
       "id": "smartline-lite",
       "name": "Smartline Lite",
-      "description": "",
-      "parent_zip": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/smartline-lite/parent.zip",
-      "child_zip": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/smartline-lite/child.zip",
-      "screenshot": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/smartline-lite/screenshot.png"
+      "child_slug": "smartline-lite-child",
+      "screenshot": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/smartline-lite/screenshot.jpg",
+      "parent_zip": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/smartline-lite/smartline-lite.zip",
+      "child_zip": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/smartline-lite/smartline-lite-child.zip"
     },
     {
       "id": "timely-news",
       "name": "Timely News",
-      "description": "",
-      "parent_zip": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/timely-news/parent.zip",
-      "child_zip": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/timely-news/child.zip",
-      "screenshot": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/timely-news/screenshot.png"
+      "child_slug": "timely-news-child",
+      "screenshot": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/timely-news/screenshot.jpg",
+      "parent_zip": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/timely-news/timely-news.zip",
+      "child_zip": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/timely-news/timely-news-child.zip"
     },
     {
       "id": "tortuga",
       "name": "Tortuga",
-      "description": "",
-      "parent_zip": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/tortuga/parent.zip",
-      "child_zip": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/tortuga/child.zip",
-      "screenshot": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/tortuga/screenshot.png"
+      "child_slug": "tortuga-child",
+      "screenshot": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/tortuga/screenshot.jpg",
+      "parent_zip": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/tortuga/tortuga.zip",
+      "child_zip": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/tortuga/tortuga-child.zip"
     },
     {
       "id": "treville",
       "name": "Treville",
-      "description": "",
-      "parent_zip": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/treville/parent.zip",
-      "child_zip": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/treville/child.zip",
-      "screenshot": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/treville/screenshot.png"
+      "child_slug": "treville-child",
+      "screenshot": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/treville/screenshot.jpg",
+      "parent_zip": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/treville/treville.zip",
+      "child_zip": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/treville/treville-child.zip"
     },
     {
       "id": "twelve-blog",
       "name": "Twelve Blog",
-      "description": "",
-      "parent_zip": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/twelve-blog/parent.zip",
-      "child_zip": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/twelve-blog/child.zip",
-      "screenshot": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/twelve-blog/screenshot.png"
+      "child_slug": "twelve-blog-child",
+      "screenshot": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/twelve-blog/screenshot.jpg",
+      "parent_zip": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/twelve-blog/twelve-blog.zip",
+      "child_zip": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/twelve-blog/twelve-blog-child.zip"
     },
     {
       "id": "wellington",
       "name": "Wellington",
-      "description": "",
-      "parent_zip": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/wellington/parent.zip",
-      "child_zip": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/wellington/child.zip",
-      "screenshot": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/wellington/screenshot.png"
+      "child_slug": "wellington-child",
+      "screenshot": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/wellington/screenshot.jpg",
+      "parent_zip": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/wellington/wellington.zip",
+      "child_zip": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/wellington/wellington-child.zip"
     },
     {
       "id": "wilson",
       "name": "Wilson",
-      "description": "",
-      "parent_zip": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/wilson/parent.zip",
-      "child_zip": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/wilson/child.zip",
-      "screenshot": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/wilson/screenshot.png"
+      "child_slug": "wilson-child",
+      "screenshot": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/wilson/screenshot.jpg",
+      "parent_zip": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/wilson/wilson.zip",
+      "child_zip": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/wilson/wilson-child.zip"
     },
     {
       "id": "writee",
       "name": "Writee",
-      "description": "",
-      "parent_zip": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/writee/parent.zip",
-      "child_zip": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/writee/child.zip",
-      "screenshot": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/writee/screenshot.png"
+      "child_slug": "writee-child",
+      "screenshot": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/writee/screenshot.jpg",
+      "parent_zip": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/writee/writee.zip",
+      "child_zip": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/writee/writee-child.zip"
     }
   ]
 }

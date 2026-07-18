@@ -2,7 +2,7 @@
   "id": "garfunkel",
   "name": "Garfunkel",
   "description": "",
-  "parent_zip": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/garfunkel/parent.zip",
-  "child_zip": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/garfunkel/child.zip",
-  "screenshot": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/garfunkel/screenshot.png"
+  "parent_zip": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/garfunkel/garfunkel.zip",
+  "child_zip": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/garfunkel/garfunkel-child.zip",
+  "screenshot": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/garfunkel/screenshot.jpg"
 }

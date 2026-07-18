@@ -2,7 +2,7 @@
   "id": "hueman",
   "name": "Hueman",
   "description": "",
-  "parent_zip": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/hueman/parent.zip",
-  "child_zip": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/hueman/child.zip",
-  "screenshot": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/hueman/screenshot.png"
+  "parent_zip": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/hueman/hueman.zip",
+  "child_zip": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/hueman/hueman-child.zip",
+  "screenshot": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/hueman/screenshot.jpg"
 }

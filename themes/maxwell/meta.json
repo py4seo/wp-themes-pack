@@ -2,7 +2,7 @@
   "id": "maxwell",
   "name": "Maxwell",
   "description": "",
-  "parent_zip": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/maxwell/parent.zip",
-  "child_zip": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/maxwell/child.zip",
-  "screenshot": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/maxwell/screenshot.png"
+  "parent_zip": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/maxwell/maxwell.zip",
+  "child_zip": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/maxwell/maxwell-child.zip",
+  "screenshot": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/maxwell/screenshot.jpg"
 }

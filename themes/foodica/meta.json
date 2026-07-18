@@ -2,7 +2,7 @@
   "id": "foodica",
   "name": "Foodica",
   "description": "",
-  "parent_zip": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/foodica/parent.zip",
-  "child_zip": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/foodica/child.zip",
-  "screenshot": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/foodica/screenshot.png"
+  "parent_zip": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/foodica/foodica.zip",
+  "child_zip": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/foodica/foodica-child.zip",
+  "screenshot": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/foodica/screenshot.jpg"
 }

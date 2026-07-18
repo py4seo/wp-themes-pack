@@ -2,7 +2,7 @@
   "id": "journey-blog",
   "name": "Journey Blog",
   "description": "",
-  "parent_zip": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/journey-blog/parent.zip",
-  "child_zip": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/journey-blog/child.zip",
-  "screenshot": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/journey-blog/screenshot.png"
+  "parent_zip": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/journey-blog/journey-blog.zip",
+  "child_zip": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/journey-blog/journey-blog-child.zip",
+  "screenshot": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/journey-blog/screenshot.jpg"
 }

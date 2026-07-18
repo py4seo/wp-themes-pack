@@ -2,7 +2,7 @@
   "id": "gridmode",
   "name": "Gridmode",
   "description": "",
-  "parent_zip": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/gridmode/parent.zip",
-  "child_zip": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/gridmode/child.zip",
-  "screenshot": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/gridmode/screenshot.png"
+  "parent_zip": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/gridmode/gridmode.zip",
+  "child_zip": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/gridmode/gridmode-child.zip",
+  "screenshot": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/gridmode/screenshot.jpg"
 }

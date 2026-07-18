@@ -2,7 +2,7 @@
   "id": "wellington",
   "name": "Wellington",
   "description": "",
-  "parent_zip": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/wellington/parent.zip",
-  "child_zip": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/wellington/child.zip",
-  "screenshot": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/wellington/screenshot.png"
+  "parent_zip": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/wellington/wellington.zip",
+  "child_zip": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/wellington/wellington-child.zip",
+  "screenshot": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/wellington/screenshot.jpg"
 }

@@ -2,7 +2,7 @@
   "id": "safari-blog",
   "name": "Safari Blog",
   "description": "",
-  "parent_zip": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/safari-blog/parent.zip",
-  "child_zip": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/safari-blog/child.zip",
-  "screenshot": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/safari-blog/screenshot.png"
+  "parent_zip": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/safari-blog/safari-blog.zip",
+  "child_zip": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/safari-blog/safari-blog-child.zip",
+  "screenshot": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/safari-blog/screenshot.jpg"
 }

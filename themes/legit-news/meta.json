@@ -2,7 +2,7 @@
   "id": "legit-news",
   "name": "Legit News",
   "description": "",
-  "parent_zip": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/legit-news/parent.zip",
-  "child_zip": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/legit-news/child.zip",
-  "screenshot": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/legit-news/screenshot.png"
+  "parent_zip": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/legit-news/legit-news.zip",
+  "child_zip": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/legit-news/legit-news-child.zip",
+  "screenshot": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/legit-news/screenshot.jpg"
 }

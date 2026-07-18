@@ -2,7 +2,7 @@
   "id": "enjoyblog",
   "name": "Enjoyblog",
   "description": "",
-  "parent_zip": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/enjoyblog/parent.zip",
-  "child_zip": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/enjoyblog/child.zip",
-  "preview": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/enjoyblog/screenshot.png"
+  "parent_zip": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/enjoyblog/enjoyblog.zip",
+  "child_zip": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/enjoyblog/enjoyblog-child.zip",
+  "preview": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/enjoyblog/screenshot.jpg"
 }

@@ -2,7 +2,7 @@
   "id": "emboss-blog",
   "name": "Emboss Blog",
   "description": "",
-  "parent_zip": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/emboss-blog/parent.zip",
-  "child_zip": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/emboss-blog/child.zip",
-  "preview": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/emboss-blog/screenshot.png"
+  "parent_zip": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/emboss-blog/emboss-blog.zip",
+  "child_zip": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/emboss-blog/emboss-blog-child.zip",
+  "preview": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/emboss-blog/screenshot.jpg"
 }

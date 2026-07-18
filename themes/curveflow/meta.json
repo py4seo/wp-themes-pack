@@ -2,7 +2,7 @@
   "id": "curveflow",
   "name": "Curveflow",
   "description": "",
-  "parent_zip": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/curveflow/parent.zip",
-  "child_zip": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/curveflow/child.zip",
-  "preview": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/curveflow/screenshot.png"
+  "parent_zip": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/curveflow/curveflow.zip",
+  "child_zip": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/curveflow/curveflow-child.zip",
+  "preview": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/curveflow/screenshot.jpg"
 }

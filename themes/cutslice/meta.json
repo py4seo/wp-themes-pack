@@ -2,7 +2,7 @@
   "id": "cutslice",
   "name": "Cutslice",
   "description": "",
-  "parent_zip": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/cutslice/parent.zip",
-  "child_zip": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/cutslice/child.zip",
-  "preview": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/cutslice/screenshot.png"
+  "parent_zip": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/cutslice/cutslice.zip",
+  "child_zip": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/cutslice/cutslice-child.zip",
+  "preview": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/cutslice/screenshot.jpg"
 }

@@ -2,7 +2,7 @@
   "id": "alaska-blog",
   "name": "Alaska Blog",
   "description": "",
-  "parent_zip": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/alaska-blog/parent.zip",
-  "child_zip": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/alaska-blog/child.zip",
-  "preview": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/alaska-blog/screenshot.png"
+  "parent_zip": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/alaska-blog/alaska-blog.zip",
+  "child_zip": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/alaska-blog/alaska-blog-child.zip",
+  "preview": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/alaska-blog/screenshot.jpg"
 }

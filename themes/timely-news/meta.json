@@ -2,7 +2,7 @@
   "id": "timely-news",
   "name": "Timely News",
   "description": "",
-  "parent_zip": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/timely-news/parent.zip",
-  "child_zip": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/timely-news/child.zip",
-  "screenshot": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/timely-news/screenshot.png"
+  "parent_zip": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/timely-news/timely-news.zip",
+  "child_zip": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/timely-news/timely-news-child.zip",
+  "screenshot": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/timely-news/screenshot.jpg"
 }

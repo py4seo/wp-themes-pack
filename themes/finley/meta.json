@@ -2,7 +2,7 @@
   "id": "finley",
   "name": "Finley",
   "description": "",
-  "parent_zip": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/finley/parent.zip",
-  "child_zip": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/finley/child.zip",
-  "screenshot": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/finley/screenshot.png"
+  "parent_zip": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/finley/finley.zip",
+  "child_zip": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/finley/finley-child.zip",
+  "screenshot": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/finley/screenshot.jpg"
 }

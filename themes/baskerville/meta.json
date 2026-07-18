@@ -2,7 +2,7 @@
   "id": "baskerville",
   "name": "Baskerville",
   "description": "",
-  "parent_zip": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/baskerville/parent.zip",
-  "child_zip": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/baskerville/child.zip",
-  "screenshot": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/baskerville/screenshot.png"
+  "parent_zip": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/baskerville/baskerville.zip",
+  "child_zip": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/baskerville/baskerville-child.zip",
+  "screenshot": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/baskerville/screenshot.jpg"
 }

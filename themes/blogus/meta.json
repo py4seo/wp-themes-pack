@@ -2,7 +2,7 @@
   "id": "blogus",
   "name": "Blogus",
   "description": "",
-  "parent_zip": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/blogus/parent.zip",
-  "child_zip": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/blogus/child.zip",
-  "screenshot": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/blogus/screenshot.png"
+  "parent_zip": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/blogus/blogus.zip",
+  "child_zip": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/blogus/blogus-child.zip",
+  "screenshot": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/blogus/screenshot.jpg"
 }

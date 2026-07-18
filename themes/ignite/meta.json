@@ -2,7 +2,7 @@
   "id": "ignite",
   "name": "Ignite",
   "description": "",
-  "parent_zip": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/ignite/parent.zip",
-  "child_zip": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/ignite/child.zip",
-  "screenshot": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/ignite/screenshot.png"
+  "parent_zip": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/ignite/ignite.zip",
+  "child_zip": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/ignite/ignite-child.zip",
+  "screenshot": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/ignite/screenshot.jpg"
 }

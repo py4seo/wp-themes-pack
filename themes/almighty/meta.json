@@ -2,7 +2,7 @@
   "id": "almighty",
   "name": "Almighty",
   "description": "",
-  "parent_zip": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/almighty/parent.zip",
-  "child_zip": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/almighty/child.zip",
-  "screenshot": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/almighty/screenshot.png"
+  "parent_zip": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/almighty/almighty.zip",
+  "child_zip": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/almighty/almighty-child.zip",
+  "screenshot": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/almighty/screenshot.jpg"
 }

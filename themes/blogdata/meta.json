@@ -2,7 +2,7 @@
   "id": "blogdata",
   "name": "Blogdata",
   "description": "",
-  "parent_zip": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/blogdata/parent.zip",
-  "child_zip": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/blogdata/child.zip",
-  "screenshot": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/blogdata/screenshot.png"
+  "parent_zip": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/blogdata/blogdata.zip",
+  "child_zip": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/blogdata/blogdata-child.zip",
+  "screenshot": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/blogdata/screenshot.jpg"
 }

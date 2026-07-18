@@ -2,7 +2,7 @@
   "id": "wilson",
   "name": "Wilson",
   "description": "",
-  "parent_zip": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/wilson/parent.zip",
-  "child_zip": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/wilson/child.zip",
-  "screenshot": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/wilson/screenshot.png"
+  "parent_zip": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/wilson/wilson.zip",
+  "child_zip": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/wilson/wilson-child.zip",
+  "screenshot": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/wilson/screenshot.jpg"
 }

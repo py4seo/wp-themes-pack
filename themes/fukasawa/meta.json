@@ -2,7 +2,7 @@
   "id": "fukasawa",
   "name": "Fukasawa",
   "description": "",
-  "parent_zip": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/fukasawa/parent.zip",
-  "child_zip": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/fukasawa/child.zip",
-  "screenshot": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/fukasawa/screenshot.png"
+  "parent_zip": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/fukasawa/fukasawa.zip",
+  "child_zip": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/fukasawa/fukasawa-child.zip",
+  "screenshot": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/fukasawa/screenshot.jpg"
 }

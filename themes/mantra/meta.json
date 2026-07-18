@@ -2,7 +2,7 @@
   "id": "mantra",
   "name": "Mantra",
   "description": "",
-  "parent_zip": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/mantra/parent.zip",
-  "child_zip": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/mantra/child.zip",
-  "screenshot": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/mantra/screenshot.png"
+  "parent_zip": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/mantra/mantra.zip",
+  "child_zip": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/mantra/mantra-child.zip",
+  "screenshot": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/mantra/screenshot.jpg"
 }

@@ -2,7 +2,7 @@
   "id": "blog-personal",
   "name": "Blog Personal",
   "description": "",
-  "parent_zip": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/blog-personal/parent.zip",
-  "child_zip": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/blog-personal/child.zip",
-  "preview": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/blog-personal/screenshot.png"
+  "parent_zip": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/blog-personal/blog-personal.zip",
+  "child_zip": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/blog-personal/blog-personal-child.zip",
+  "preview": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/blog-personal/screenshot.jpg"
 }

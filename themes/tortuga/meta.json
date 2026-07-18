@@ -2,7 +2,7 @@
   "id": "tortuga",
   "name": "Tortuga",
   "description": "",
-  "parent_zip": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/tortuga/parent.zip",
-  "child_zip": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/tortuga/child.zip",
-  "screenshot": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/tortuga/screenshot.png"
+  "parent_zip": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/tortuga/tortuga.zip",
+  "child_zip": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/tortuga/tortuga-child.zip",
+  "screenshot": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/tortuga/screenshot.jpg"
 }

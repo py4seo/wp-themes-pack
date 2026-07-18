@@ -2,7 +2,7 @@
   "id": "treville",
   "name": "Treville",
   "description": "",
-  "parent_zip": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/treville/parent.zip",
-  "child_zip": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/treville/child.zip",
-  "screenshot": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/treville/screenshot.png"
+  "parent_zip": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/treville/treville.zip",
+  "child_zip": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/treville/treville-child.zip",
+  "screenshot": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/treville/screenshot.jpg"
 }

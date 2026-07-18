@@ -2,7 +2,7 @@
   "id": "writee",
   "name": "Writee",
   "description": "",
-  "parent_zip": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/writee/parent.zip",
-  "child_zip": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/writee/child.zip",
-  "screenshot": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/writee/screenshot.png"
+  "parent_zip": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/writee/writee.zip",
+  "child_zip": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/writee/writee-child.zip",
+  "screenshot": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/writee/screenshot.jpg"
 }

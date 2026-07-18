@@ -2,7 +2,7 @@
   "id": "kale",
   "name": "Kale",
   "description": "",
-  "parent_zip": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/kale/parent.zip",
-  "child_zip": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/kale/child.zip",
-  "screenshot": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/kale/screenshot.png"
+  "parent_zip": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/kale/kale.zip",
+  "child_zip": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/kale/kale-child.zip",
+  "screenshot": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/kale/screenshot.jpg"
 }

@@ -2,7 +2,7 @@
   "id": "feather-magazine",
   "name": "Feather Magazine",
   "description": "",
-  "parent_zip": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/feather-magazine/parent.zip",
-  "child_zip": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/feather-magazine/child.zip",
-  "screenshot": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/feather-magazine/screenshot.png"
+  "parent_zip": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/feather-magazine/feather-magazine.zip",
+  "child_zip": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/feather-magazine/feather-magazine-child.zip",
+  "screenshot": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/feather-magazine/screenshot.jpg"
 }

@@ -2,7 +2,7 @@
   "id": "rebalance",
   "name": "Rebalance",
   "description": "",
-  "parent_zip": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/rebalance/parent.zip",
-  "child_zip": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/rebalance/child.zip",
-  "screenshot": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/rebalance/screenshot.png"
+  "parent_zip": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/rebalance/rebalance.zip",
+  "child_zip": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/rebalance/rebalance-child.zip",
+  "screenshot": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/rebalance/screenshot.jpg"
 }

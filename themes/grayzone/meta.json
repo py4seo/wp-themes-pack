@@ -2,7 +2,7 @@
   "id": "grayzone",
   "name": "Grayzone",
   "description": "",
-  "parent_zip": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/grayzone/parent.zip",
-  "child_zip": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/grayzone/child.zip",
-  "screenshot": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/grayzone/screenshot.png"
+  "parent_zip": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/grayzone/grayzone.zip",
+  "child_zip": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/grayzone/grayzone-child.zip",
+  "screenshot": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/grayzone/screenshot.jpg"
 }

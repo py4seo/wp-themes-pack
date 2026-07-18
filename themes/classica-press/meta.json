@@ -2,7 +2,7 @@
   "id": "classica-press",
   "name": "Classica Press",
   "description": "",
-  "parent_zip": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/classica-press/parent.zip",
-  "child_zip": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/classica-press/child.zip",
-  "screenshot": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/classica-press/screenshot.png"
+  "parent_zip": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/classica-press/classica-press.zip",
+  "child_zip": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/classica-press/classica-press-child.zip",
+  "screenshot": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/classica-press/screenshot.jpg"
 }

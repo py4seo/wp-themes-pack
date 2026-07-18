@@ -2,7 +2,7 @@
   "id": "personalias",
   "name": "Personalias",
   "description": "",
-  "parent_zip": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/personalias/parent.zip",
-  "child_zip": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/personalias/child.zip",
-  "screenshot": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/personalias/screenshot.png"
+  "parent_zip": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/personalias/personalias.zip",
+  "child_zip": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/personalias/personalias-child.zip",
+  "screenshot": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/personalias/screenshot.jpg"
 }

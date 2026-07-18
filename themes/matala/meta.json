@@ -2,7 +2,7 @@
   "id": "matala",
   "name": "Matala",
   "description": "",
-  "parent_zip": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/matala/parent.zip",
-  "child_zip": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/matala/child.zip",
-  "screenshot": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/matala/screenshot.png"
+  "parent_zip": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/matala/matala.zip",
+  "child_zip": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/matala/matala-child.zip",
+  "screenshot": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/matala/screenshot.jpg"
 }

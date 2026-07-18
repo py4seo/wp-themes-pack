@@ -2,7 +2,7 @@
   "id": "hemingway",
   "name": "Hemingway",
   "description": "",
-  "parent_zip": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/hemingway/parent.zip",
-  "child_zip": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/hemingway/child.zip",
-  "screenshot": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/hemingway/screenshot.png"
+  "parent_zip": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/hemingway/hemingway.zip",
+  "child_zip": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/hemingway/hemingway-child.zip",
+  "screenshot": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/hemingway/screenshot.jpg"
 }

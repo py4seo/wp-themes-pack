@@ -2,7 +2,7 @@
   "id": "public-blog",
   "name": "Public Blog",
   "description": "",
-  "parent_zip": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/public-blog/parent.zip",
-  "child_zip": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/public-blog/child.zip",
-  "screenshot": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/public-blog/screenshot.png"
+  "parent_zip": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/public-blog/public-blog.zip",
+  "child_zip": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/public-blog/public-blog-child.zip",
+  "screenshot": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/public-blog/screenshot.jpg"
 }
