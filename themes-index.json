@@ -362,12 +362,12 @@
       "child_zip": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/dynamic-news-lite/dynamic-news-lite-child.zip"
     },
     {
-      "id": "eksell-child",
-      "name": "Eksell Child",
-      "child_slug": "eksell-child-child",
-      "screenshot": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/eksell-child/screenshot.jpg",
-      "parent_zip": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/eksell-child/eksell.zip",
-      "child_zip": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/eksell-child/eksell-child.zip"
+      "id": "eksell",
+      "name": "Eksell",
+      "child_slug": "eksell-child",
+      "screenshot": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/eksell/screenshot.jpg",
+      "parent_zip": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/eksell/eksell.zip",
+      "child_zip": "https://github.com/py4seo/wp-themes-pack/raw/main/themes/eksell/eksell-child.zip"
     },
     {
       "id": "fascinate",
